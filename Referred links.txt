@@ -1,0 +1,5 @@
+https://app.pluralsight.com/library/courses/react-js-getting-started/table-of-contents
+
+https://jscomplete.com/playground/rgs3.9
+
+https://github.com/facebook/create-react-app/issues/9273 (scroll down to cking27 answer)
